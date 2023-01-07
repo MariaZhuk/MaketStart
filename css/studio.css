@@ -1,0 +1,48 @@
+
+/* Стили хэддера */
+
+.logo {
+    font-family: 'Raleway';
+    font-size: 26px;
+    line-height: 1.19;
+    font-weight: 700;
+
+    color: var(--primary-text-color);
+}
+
+/*  Главная навигация сайта */
+.page-nav {
+    
+}
+
+.page-nav--link{
+    color: var(--primary-text-color);
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 1.14;
+    letter-spacing: 0.02em;
+}
+
+.page-nav--link:focus,
+.page-nav--link:hover {
+    color: var(--accent-text-color);
+    }
+
+/* Авторизация на сайте */
+.auth-nav--link {
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 1.14;
+    letter-spacing: 0.02em;
+
+    color: #757575;
+}
+
+.current {
+    color: var(--accent-text-color)
+}
+
+.auth-nav--link:focus,
+.auth-nav--link:hover {
+    color: var(--accent-text-color);
+}
