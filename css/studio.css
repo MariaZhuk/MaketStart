@@ -10,10 +10,15 @@
     color: var(--primary-text-color);
 }
 
+.logo-change-color {
+    color: var(--logo-color);
+}
+
 /*  Главная навигация сайта */
 .page-nav {
     
 }
+
 
 .page-nav--link{
     color: var(--primary-text-color);
@@ -34,7 +39,6 @@
     font-size: 14px;
     line-height: 1.14;
     letter-spacing: 0.02em;
-
     color: #757575;
 }
 
