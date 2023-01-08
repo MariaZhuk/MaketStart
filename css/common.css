@@ -8,6 +8,7 @@
     --hero-text-color: #FFFFFF;
     --adrress-primary-color: rgba(255, 255, 255, 0.6);
     --hero-button-color: #2196F3;
+    --backgroun-footer-color: #2F303A;
 }
 
 body {
@@ -28,6 +29,10 @@ ul {
 
 a {
     text-decoration: none;
+}
+
+address {
+    font-style: normal;
 }
 
 
